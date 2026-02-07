@@ -95,3 +95,4 @@
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/MyHobby.pdb
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/MyHobby.genruntimeconfig.cache
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/ref/MyHobby.dll
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/MyHobby.sourcelink.json
