@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Hire My Services";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Want to learn the ins and outs of frisbee?</p>
+
+<div id="tutorForm">
+    <form id="calculatePrice" action="">
+        <label for="price">Price Per Hour</label>
+        <p id="price">$50</p>
+        <label for="hours">Number of Hours</label>
+        <br>
+        <input id="hours" type="number" placeholder="Enter number of hours" min="1" step="1">
+        <br>
+        <button id="calc" type="button">Calculate</button>
+        <br><br>
+        <label for="total">Total: <span id="total" style="font-weight: bold"></span></label>
+        
+    </form>
+</div>

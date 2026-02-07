@@ -21,9 +21,7 @@
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/scopedcss/bundle/MyHobby.styles.css
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/scopedcss/projectbundle/MyHobby.bundle.scp.css
-/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/gizzxfqh12-{0}-lugek5hnai-lugek5hnai.gz
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/bdw0l0q2go-{0}-61n19gt1b8-61n19gt1b8.gz
-/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/7s0okk5xpn-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/80k1q9dpf7-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/shwvdwrwvf-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/qwp8x17a1l-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -96,3 +94,5 @@
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/MyHobby.genruntimeconfig.cache
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/ref/MyHobby.dll
 /Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/MyHobby.sourcelink.json
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/7s0okk5xpn-{0}-a230nqrlbr-a230nqrlbr.gz
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission Assignments/MyHobby/MyHobby/obj/Debug/net10.0/compressed/gizzxfqh12-{0}-pn7ir04b68-pn7ir04b68.gz

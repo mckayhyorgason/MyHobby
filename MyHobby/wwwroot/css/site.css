@@ -29,3 +29,182 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+
+/* Navbar styling */
+.navbar {
+  background-color: #ffffff;
+  padding: 0.75rem 1.25rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.3rem;
+  letter-spacing: 0.5px;
+}
+
+.navbar i {
+  color: #0d6efd; /* Bootstrap primary blue */
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #0d6efd;
+}
+
+main {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+/* Page container */
+.text-center {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Headings */
+h1.display-4 {
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+h3 {
+  font-weight: 600;
+  color: #0d6efd;
+  margin-bottom: 1rem;
+}
+
+/* Paragraph styling */
+.text-center p {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  color: #444;
+}
+
+/* Subtitle / intro text */
+.text-center p:first-of-type {
+  font-style: italic;
+  color: #666;
+}
+
+/* Team image */
+#TeamPic {
+  margin: 2rem 0;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  max-width: 100%;
+  height: auto;
+}
+
+/* Profile image */
+img[alt="Mckay Yorgason"] {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  border: 3px solid #0d6efd;
+  height: auto;
+}
+
+/* Mobile tweaks */
+@media (max-width: 768px) {
+  .text-center {
+    padding: 0 1rem;
+  }
+
+  h1.display-4 {
+    font-size: 2.25rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+}
+
+/************************* Tutor Page ******************************/
+
+/* Center the form container and give it some spacing */
+#tutorForm {
+  max-width: 500px;      /* limit width */
+  margin: 40px 1px;     /* center horizontally and add top/bottom spacing */
+  padding: 30px;         /* space inside the box */
+  border: 2px solid #007BFF;  /* blue border */
+  border-radius: 10px;   /* rounded corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* subtle shadow */
+  background-color: #f9f9f9; /* light gray background */
+  font-family: Arial, sans-serif;
+}
+
+/* Style all form labels */
+#tutorForm label {
+  font-weight: bold;
+  display: block; /* labels on their own line */
+  margin-top: 15px;
+}
+
+/* Style the input box for hours */
+#tutorForm input[type="number"] {
+  width: 100%;
+  padding: 8px 10px;
+  margin-top: 1px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Style the calculate button */
+#tutorForm button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+#tutorForm button:hover {
+  background-color: #0056b3;
+}
+
+/* Style the price per hour box */
+#price {
+  display: inline-block;
+  padding: 8px 12px;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+/* Style the total output */
+#total {
+  font-weight: bold;
+  color: black;
+  margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+footer {
+  background-color: #f8f9fa;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  text-align: center;
+}
